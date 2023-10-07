@@ -1,0 +1,541 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: skyblue;
+}
+
+.op {
+    display: block;
+    transition: all 1.5s;
+}
+
+img {
+    box-shadow: 3px 3px 3px 3px rgb(0, 0, 0);
+}
+
+.xc {
+    overflow: hidden;
+    margin: 1pc;
+    padding: 1pc;
+    text-align: center;
+    color: aliceblue;
+}
+.img1{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img1:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img2{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img2:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img3{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img3:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img4{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img4:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img5{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img5:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img6{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img6:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img7{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img7:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img8{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img8:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img9{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img9:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img10{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img10:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img11{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img11:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img12{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img12:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img13{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img13:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img14{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img14:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img15{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img15:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img16{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img16:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img17{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img17:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img18{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img18:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img19{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img19:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img20{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img20:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img21{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img21:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img22{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img22:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img23{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img23:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img24{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img24:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img25{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img25:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img26{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img26:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img27{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img27:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img28{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img28:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img29{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img29:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img30{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img30:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img31{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img31:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img32{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img32:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img33{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img33:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img34{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img34:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img35{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img35:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img36{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img36:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img37{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img37:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img38{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img38:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img39{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img39:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img40{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img40:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img41{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img41:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img42{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img42:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
+.img43{
+    transition: all 3s;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img43:hover{
+    position: relative;
+    top: 5pc;
+    left: 80pc;
+    transform: scale(1.9);
+}
