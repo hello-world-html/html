@@ -10,3 +10,11 @@ h1{
     text-align: center;
     color: aliceblue;
 }
+#img0test{
+    margin: 2vw;
+}
+#button-left{
+    width: 6vw;
+    height: 6vw;
+    border: 2px solid white;
+}
