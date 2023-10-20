@@ -10,8 +10,13 @@ h1{
     text-align: center;
     color: aliceblue;
 }
-#img0test{
-    margin: 2vw;
+#img1{
+    position: absolute;
+    top: 15vw;
+    left: 43.5vw;
+}
+#shell{
+    overflow: hidden;
 }
 #button-left{
     width: 6vw;
@@ -19,21 +24,30 @@ h1{
     border: 1px solid white;
     border-radius: 50%;
     position: absolute;
-    top: 60vw;
+    top: 35vw;
     left: 30vw;
     transition: all 2s;
 }
-i{
+#button-right{
     width: 6vw;
     height: 6vw;
-    margin: 12px;
-    color: white;
-    transition: all 1s;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 35vw;
+    left: 60vw;
+    transition: all 2s;
 }
-#button-left:hover{
+#button-left:hover,#button-right:hover{
     background-color: white;
     border: 1px solid black;
 }
-i:hover{
-    color: black;
+i{
+    color: palegreen;
+    position: absolute;
+    top: 30px;
+    left: 30px;
 }
+.icon-right{
+        transform: rotateY(180deg);
+    }
