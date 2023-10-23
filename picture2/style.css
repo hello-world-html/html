@@ -15,8 +15,9 @@ h1{
     top: 15vw;
     left: 43.5vw;
 }
-#shell{
-    overflow: hidden;
+a{
+    font-size: 50px;
+    color: black;
 }
 #button-left{
     width: 6vw;
