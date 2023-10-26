@@ -1,25 +1,25 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: #87ceeb;
 }
-h1{
+
+h1 {
     margin: 5vw;
     text-align: center;
     color: aliceblue;
 }
-#img1{
+
+#img1 {
     position: absolute;
     top: 15vw;
     left: 43.5vw;
 }
-a{
-    font-size: 50px;
-    color: black;
-}
-#button-left{
+
+#button-left {
     width: 6vw;
     height: 6vw;
     border: 1px solid white;
@@ -29,7 +29,8 @@ a{
     left: 30vw;
     transition: all 2s;
 }
-#button-right{
+
+#button-right {
     width: 6vw;
     height: 6vw;
     border: 1px solid white;
@@ -39,16 +40,27 @@ a{
     left: 60vw;
     transition: all 2s;
 }
-#button-left:hover,#button-right:hover{
+
+#button-left:hover,
+#button-right:hover {
     background-color: white;
     border: 1px solid black;
 }
+
 i{
     color: palegreen;
     position: absolute;
     top: 30px;
     left: 30px;
 }
-.icon-right{
-        transform: rotateY(180deg);
-    }
+
+.icon-right {
+    transform: rotateY(180deg);
+}
+
+.op{
+    background-image: url(picture/test.png);
+    position: relative;
+    top: 15vw;
+    left: 43.5vw;
+}

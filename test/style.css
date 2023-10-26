@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 15vw;
+    height: 40vw;
+    border: 1px solid red;
+    margin: 10vw auto;
+}
+.jie{
+    background: red;
+}

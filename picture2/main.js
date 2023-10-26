@@ -1,4 +1,6 @@
 function right(){
-    var h = document.querySelector.p('.hi')
-    document.p.style['color'] = 'green'
+    var item = document.createElement("div")
+    item.className = "op"
+    item.style.position = "absolute"
+    document.body.appendChild(item)
 }
