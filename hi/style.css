@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.svg-github{
+    width: 20vw;
+    height: 20vw;
+    background-color: purple;
+    position: absolute;
+    top: -12vw;
+    left: -8vw;
+    transform: rotateZ(25deg);
+}
+.github{
+    transform: rotateZ(-25deg);
+    position: absolute;
+    top: 12vw;
+    left: 12vw;
+}
+
+body {
+    background-color: #fcfcfc;
+}
+
+.header {
+    padding: 2vw;
+    width: auto;
+    height: 8vw;
+    background-color: skyblue;
+    color: #fcfcfc;
+    text-align: center;
+}
+
+.header h2 {
+    margin: 1vw;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+.img {
+    transition: all 1.5s;
+}
+
+.up {
+    transition: all 1.5s;
+    position: absolute;
+    top: 18.3vw;
+    left: 27vw;
+}
+
+.cat {
+    width: 50vw;
+    position: relative;
+    top: 1vw;
+    left: 36vw;
+    /* left: 25vw; */
+}
+
+.up:hover {
+    transform: rotate(10deg);
+}
+
+.xian {
+    margin-top: 3vw;
+    margin-bottom: 1vw;
+    width: auto;
+    height: 1px;
+    background: #ccb6e8;
+}
+
+.img-home {
+    margin-top: 1px;
+    margin-left: 8.5vw;
+}
+
+.img0 {
+    width: 12vw;
+}
+
+.box {
+    margin: auto;
+    margin-top: 7vw;
+    padding: 5vw;
+    width: 30vw;
+    height: auto;
+    /* height: 35vw; */
+    border-radius: 10%;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.4);
+}
+
+.wenzi {
+    padding: 2em;
+}
+
+.biaoti,
+.neirong {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+.footer {
+    background-color: skyblue;
+    height: 30vw;
+}
+
+.tiaozhuan {
+    display: flex;
+}
+
+.tiaozhuan div {
+    margin: 3vw;
+    text-decoration: none;
+    background-color: rgba(0, 132, 255, 0.973);
+    border-radius: 2em;
+    width: 10vw;
+    height: 2vw;
+    border: 3px solid #fff;
+    text-align: center;
+    padding: 1vw;
+    color: #fffc;
+    transition: all 0.5s;
+}
+
+.tiaozhuan div:hover{
+    background-color: rgba(0, 132, 255, 0.373);
+}
+
+.a {
+    color: white;
+}
+
+.xian1 {
+    margin-top: 3vw;
+    margin-bottom: 1vw;
+    width: auto;
+    height: 1px;
+    background: #ccb6e8;
+}
+
+.bey {
+    margin: 0 auto;
+    padding: 2em;
+    width: 8vw;
+    height: 4vw;
+}
+
+.bey h2 {
+    text-align: center;
+    color: #fff;
+}
+
+.bey p {
+    margin-top: 2vw;
+    position: relative;
+    left: 20px;
+    color: #fff;
+}
